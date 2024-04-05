@@ -1,0 +1,72 @@
+/* 
+Name: Mufaro Faith Muzunze
+Course: Web and Mobile Computing 1.2
+Business Name: Success Through Sweat
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    text-align: center;
+    background: url("/1.jpeg");
+    color: rgb(82, 60, 12);
+}
+
+header {
+    background-color: cadetblue;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.content {}
+
+.content h2 {
+    margin: 20px;
+}
+
+.content p {
+    margin: 20px;
+}
+
+.content h3 {
+    margin: 15px;
+    font-size: 23px;
+}
+
+.content ul {
+    margin: 20px;
+    list-style-type: none;
+}
+
+.content ul li {
+    margin: 8px;
+}
+
+.content ul li a {
+    text-decoration: none;
+    cursor: pointer;
+    margin: 8px;
+}
+
+.content ul li a:hover {
+    color: rgb(128, 115, 0);
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    background: rgb(168, 181, 182);
+    width: 100%;
+    text-align: center;
+}
+
